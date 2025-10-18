@@ -6,3 +6,4 @@ ENV N8N_BASIC_AUTH_PASSWORD=sua_senha_segura
 
 EXPOSE 5678
 
+
